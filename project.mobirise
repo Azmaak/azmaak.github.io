@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -601,7 +601,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Page 1",
+        "title": "REGISTER",
         "order": 10
       },
       "components": [
@@ -1131,7 +1131,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
-        "title": "Page 2",
+        "title": "THIS IS US",
         "order": 9
       },
       "components": [
@@ -1650,7 +1650,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "Page 3",
+        "title": "MEMBERS",
         "order": 8
       },
       "components": [
@@ -2254,7 +2254,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Web Page Generator Description",
-        "title": "Page 4",
+        "title": "DIRECTORS",
         "order": 7
       },
       "components": [
@@ -2730,7 +2730,7 @@
     "page5.html": {
       "settings": {
         "meta_descr": "Web Creator Description",
-        "title": "Page 5",
+        "title": "OUR TEAM",
         "order": 6
       },
       "components": [
@@ -3324,7 +3324,7 @@
     "page6.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Page 6",
+        "title": "ABOUT US",
         "order": 5
       },
       "components": [
@@ -3874,7 +3874,7 @@
     "page7.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
-        "title": "Page 7",
+        "title": "SPONSORS",
         "order": 4
       },
       "components": [
@@ -4578,7 +4578,7 @@
     "page8.html": {
       "settings": {
         "meta_descr": "Web Maker Description",
-        "title": "Page 8",
+        "title": "COMING SOON",
         "order": 3
       },
       "components": [
@@ -5720,7 +5720,7 @@
     "page10.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "Page 10",
+        "title": "BROCHURE",
         "order": 1
       },
       "components": [
